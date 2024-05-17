@@ -1,0 +1,7 @@
+data.json
+yolov8n.py
+datasets/
+runs/
+saved/
+
+__pycache__/

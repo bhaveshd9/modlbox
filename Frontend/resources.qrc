@@ -1,0 +1,28 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>resources/arrow-down.png</file>
+    <file>resources/arrow-down-hover.png</file>
+    <file>resources/arrow-left.png</file>
+    <file>resources/arrow-left-hover.png</file>
+    <file>resources/arrow-left-pressed.png</file>
+    <file>resources/arrow-right.png</file>
+    <file>resources/arrow-right-hover.png</file>
+    <file>resources/arrow-right-pressed.png</file>
+    <file>resources/clear.png</file>
+    <file>resources/delete.png</file>
+    <file>resources/folder.png</file>
+    <file>resources/icon_close.png</file>
+    <file>resources/icon_maximize.png</file>
+    <file>resources/icon_minimize.png</file>
+    <file>resources/modl-logo.ico</file>
+    <file>resources/modl-logo.png</file>
+    <file>resources/predict.png</file>
+    <file>resources/reset.png</file>
+    <file>resources/resize.png</file>
+    <file>resources/save.png</file>
+    <file>resources/show-hide-terminal.png</file>
+    <file>resources/splash-screen.png</file>
+    <file>resources/start.png</file>
+    <file>resources/stop.png</file>
+  </qresource>
+</RCC>

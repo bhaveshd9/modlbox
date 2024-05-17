@@ -1,0 +1,14 @@
+<RCC>
+  <qresource>
+    <file>resources/icons/cil-arrow-bottom.png</file>
+    <file>resources/icons/cil-camera.png</file>
+    <file>resources/icons/cil-chart-line.png</file>
+    <file>resources/icons/cil-comment-square.png</file>
+    <file>resources/icons/cil-folder.png</file>
+    <file>resources/icons/icon_close.png</file>
+    <file>resources/icons/icon_maximize.png</file>
+    <file>resources/icons/icon_menu.png</file>
+    <file>resources/icons/icon_minimize.png</file>
+    <file>resources/icons/icon_settings.png</file>
+  </qresource>
+</RCC>
