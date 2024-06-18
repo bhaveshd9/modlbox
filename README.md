@@ -5,6 +5,8 @@ MODLBOX is an application to speed up the Machine learning/deep learning develop
 
 (Windows Only) App download link: https://iastate.box.com/s/mw2hr7j1lj6h71dieth2kzyn6osv6vnx 
 
+![Screenshot of the application](Frontend/resources/splash-screen.png)
+
 
 BEFORE STARTING THE APP: 
 
